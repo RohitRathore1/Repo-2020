@@ -1,0 +1,1 @@
+Use of AllenNLP for sequence modeling (including hierarchical LSTMs and CRF decoding) 
