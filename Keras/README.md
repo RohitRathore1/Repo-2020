@@ -1,0 +1,1 @@
+`Keras` is a powerful and easy-to-use free open source Python library for developing and evaluating `Deep Larning` models. It wraps the effecient numerical computation libraries `Theano` and `TensorFlow` and allows us to define and train neural network models in just a few lines of code. 
