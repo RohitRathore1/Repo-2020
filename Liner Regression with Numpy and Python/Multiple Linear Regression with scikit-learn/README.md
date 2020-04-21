@@ -30,3 +30,11 @@ Assessing model accuracy is very similar to that of simple linear regression. My
 
 # Task 7: Interaction Effect (Synergy) in Regression Analysis
 From my previous analysis of the residuals, I concluded that I need to incorporate interaction terms due to the non-additive relationship between the features and target. A simple method to extend my model to allow for interaction effects is to include a third feature by taking the product of the other two features in my model. This feature will have its separate slope coefficient which can be interpreted as the increase in the effectiveness of radio advertising for a one unit increase in TV advertising or vice versa.
+
+
+By the end of this topic, I will be able to:
+
+- Build univariate and multivariate linear regression models using scikit-learn
+- Perform Exploratory Data Analysis (EDA) and data visualization with seaborn
+- Evaluate model fit and accuracy using numerical measures such as R² and RMSE
+- Model interaction effects in regression using basic feature engineering techniques
