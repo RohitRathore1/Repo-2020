@@ -9,7 +9,7 @@ In this topic, I am going to focus on three learning objectives:
 By the end of this topic, I will be able to build logistic regression models from scratch using NumPy and Python, without the use of machine learning frameworks such as scikit-learn and statsmodels.
 
 ## Structure:
-# Task 1: Introduction and Project Overview
+# Task 1: Introduction and topic Overview
 - Introduction to the data set and the problem overview.
 - See a demo of the final product I will build by the end of this topic.
 
