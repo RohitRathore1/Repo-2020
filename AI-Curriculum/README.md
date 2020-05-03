@@ -26,7 +26,7 @@ MIT's introductory course on deep learning methods with applications to computer
 
 Source: MIT
 
-[<p align="center"><img src="https://github.com/TeAmp0is0N/Repo-2020/AI-Curriculum/blob/master/images/mit.gif" width="600"></p>](http://introtodeeplearning.com/)
+[<p align="center"><img src="https://github.com/TeAmP0is0N/Repo-2020/blob/master/AI-Curriculum/images/mit.gif" width="600"></p>](http://introtodeeplearning.com/)
 
 # CNNs for Visual Recognition
 
@@ -37,7 +37,7 @@ Computer Vision has become ubiquitous in our society, with applications in searc
 
 Source: Stanford
 
-[<p align="center"><img src="https://github.com/TeAmp0is0N/Repo-2020/AI-Curriculum/blob/master/images/stanford.png" width="600"></p>](http://cs231n.stanford.edu)
+[<p align="center"><img src="https://github.com/TeAmP0is0N/Repo-2020/blob/master/AI-Curriculum/images/berkeley.png" width="600"></p>](http://cs231n.stanford.edu)
 
 # NLP with Deep Learning
 
@@ -48,14 +48,14 @@ Natural language processing (NLP) is a crucial part of artificial intelligence (
 
 Source: Stanford
 
-[<p align="center"><img src="https://github.com/TeAmp0is0N/Repo-2020/AI-Curriculum/blob/master/images/nlp_stanford.png" width="600"></p>](http://web.stanford.edu/class/cs224n/index.html#schedule)
+[<p align="center"><img src="https://github.com/TeAmP0is0N/Repo-2020/blob/master/AI-Curriculum/images/berkeley.png" width="600"></p>](http://web.stanford.edu/class/cs224n/index.html#schedule)
 
 # Deep Reinforcement Learning
 
 ### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
 [Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
-[<p align="center"><img src="https://github.com/TeAmp0is0N/Repo-2020/AI-Curriculum/blob/master/images/berkeley.png" width="600"></p>](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+[<p align="center"><img src="https://github.com/TeAmP0is0N/Repo-2020/blob/master/AI-Curriculum/images/berkeley.png" width="600"></p>](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
 # Unsupervised Learning
 
@@ -66,7 +66,7 @@ This course covers two areas of deep learning in which labeled data is not requi
 
 - Source: [UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 
-[<p align="center"><img src="https://github.com/TeAmp0is0N/Repo-2020/AI-Curriculum/blob/master/images/deep_unsupervised.png" width="600"></p>](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+[<p align="center"><img src="https://github.com/TeAmP0is0N/Repo-2020/blob/master/AI-Curriculum/images/deep_unsupervised.png" width="600"></p>](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 
 
 # Multi-Task and Meta Learning
@@ -82,5 +82,5 @@ While deep learning has achieved remarkable success in supervised and reinforcem
 
 Source: [Stanford University CS330](http://cs330.stanford.edu/)
 
-[<p align="center"><img src="https://github.com/TeAmp0is0N/Repo-2020/AI-Curriculum/blob/master/images/meta_learning.png" width="600"></p>](http://cs330.stanford.edu/)
+[<p align="center"><img src="https://github.com/TeAmP0is0N/Repo-2020/blob/master/AI-Curriculum/images/meta_learning.png" width="600"></p>](http://cs330.stanford.edu/)
 
